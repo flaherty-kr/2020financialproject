@@ -14,4 +14,4 @@ for i in filtered:
 print(list1[0:21])
 
 cand_list = list1[0:21]
-cand_list
+print(cand_list)
